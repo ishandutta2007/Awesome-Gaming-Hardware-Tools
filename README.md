@@ -15,6 +15,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Gaming-Hardware-Tools/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Gaming-Hardware-Tools/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Gaming-Hardware-Tools/commits/main"><img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Gaming-Hardware-Tools?style=flat-square&color=orange" alt="Last Commit"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 </div>
@@ -34,6 +35,8 @@ The **Awesome Gaming & Hardware Tools** repository aggregates the definitive tec
 - [🛠️ Open-Source GitHub Projects](#️-open-source-github-projects)
 - [💡 Architectural Guide: SaaS vs. Self-Hosted](#-architectural-guide-saas-vs-self-hosted)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [📈 Star History](#--star-history)
+- [💖 Support](#-support)
 - [⚖️ Disclaimer & Compliance](#️-disclaimer--compliance)
 - [🏷️ Keyword Index](#️-keyword-index)
 
@@ -133,6 +136,34 @@ Contributions are welcome from game developers, engine programmers, backend arch
    - For **Open-Source entries**: Include project name, license, shield star badge (`style=social&color=white`), description, and maintain descending star order.
 4. **Run Format Verification**: Ensure markdown tables are aligned and links are functional.
 5. **Submit a Pull Request** with a descriptive summary of the tool and why it benefits developers.
+
+---
+
+##  Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Gaming-Hardware-Tools&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Gaming-Hardware-Tools&type=date&legend=top-left)
+
+---
+
+## 💖 Support
+
+A huge **thank you** to all developers, engine programmers, indie creators, and open-source contributors using and sharing this repository! Maintaining a comprehensive, accurate directory of game infrastructure and hardware tooling requires ongoing community collaboration.
+
+If this curated guide has saved you research time or helped your game architecture:
+- ⭐ **Star this repository** to improve discoverability across GitHub.
+- 🍴 **Fork the repo** and submit pull requests for emerging tools, SDK revisions, and pricing updates.
+- 📢 **Share it** with your peers across Discord, Reddit, Mastodon, X, and game jams.
+- ☕ **Sponsor or Buy Me a Coffee**: If you'd like to support continued maintenance and development, please visit the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007):
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</p>
 
 ---
 
